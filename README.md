@@ -16,18 +16,18 @@ Poner en practica la manipulacion de datos(eliminar datos duplicado, vacios, ver
 ## Análisis
 ### Para cada hora del día, ¿cuántas personas hacen órdenes?
 - En general se realizan una gran cantidad de compras entre las 9 y las 17 horas.
-- Tenemos 2 grupos con respecto a la hora que son bajas las compras en la mañana y en la tarde noche. En la mañana entre las 0 y 8 horas hay un menor cantidad de pedidos ya en esta ultima comenzando a aumentar y en la tarde noche a partir de las 18 horas la cantidad de pedidos empieza a diminuir hasta las 23.
-- Se puede concluir que el rango de hora en el cual se realizan mas pedidos es en comparacion al horario laboral (periodo de 8 horas) ya que es donde las personas estan mas activas y los rangos de hora en la mañana y en la tarde noche son menos activos ya que estan descansando y van a descansar.
+- Tenemos 2 grupos con respecto a la hora que son bajas las compras en la mañana y en la tarde noche. En la mañana entre las 0 y 8 horas hay una menor cantidad de pedidos ya en esta ultima comenzando a aumentar y en la tarde noche a partir de las 18 horas la cantidad de pedidos empieza a disminuir hasta las 23.
+- Se puede concluir que el rango de hora en el cual se realizan mas pedidos es en comparación al horario laboral (periodo de 8 horas) ya que es donde las personas estan mas activas y los rangos de hora en la mañana y en la tarde noche son menos activos ya que estan descansando y van a descansar.
 
 ### ¿Qué día de la semana compran víveres las personas?
-- Los días Domingos como lunes son lo días en lo que se realizan mas compras dismuyendo mientras avanza la semana y aumenta mientras se acerca el fin de semana.
+- Los días Domingos como lunes son lo días en lo que se realizan mas compras disminuyendo mientras avanza la semana y aumenta mientras se acerca el fin de semana.
 
 ### ¿Cuánto tiempo esperan las personas hasta hacer otro pedido? Comenta sobre los valores mínimos y máximos
 - En promedio se demoran 10 días en comprar nuevamente siendo 0 días el minimo de días que se demora en comprar nuevamente y 30 el maximo.
 
 ### Diferencia entre miércoles y sábados para. 
 
-- Como se puede apreciar en la distribución y en los gráficos los 2 días tienen casi la misma distribuición pero el Miécoles tiene una ligera ventaja en las horas 6, 7, 9, 18, 19 y 20.
+- Como se puede apreciar en la distribución y en los gráficos los 2 días tienen casi la misma distribución pero el Miécoles tiene una ligera ventaja en las horas 6, 7, 9, 18, 19 y 20.
 
 ### ¿Cuál es la distribución para el número de pedidos por cliente?
 - En promedio se hacen 14 pedidos.
